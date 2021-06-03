@@ -478,9 +478,6 @@ def get_delegate_bulletin(body):
     bulletin.save_voting_key_to_bulletin(voting_key)
 
     # Отправка СМС сообщения и PUSH уведомления
-    # TODO: Только ради тестов. Убрать в продакшене try... except...
-    #  если отправка кода через бота была неудачной,
-    #  то возвращать код в овтете функции
     try:
         bulletin.send_voting_key_sms(voter_user)
     except BotMessageError:
@@ -692,7 +689,6 @@ def get_delegate_bulletin_pdf(body):
     return {'response': b64_data, 'Content-Type': 'application/pdf'}
 
 
-# TODO: В Разработке
 @check_request_fields_batch(['phone', 'delegateID'])
 @api_function_decorator
 def web_voting_for_delegate(body):
@@ -728,7 +724,6 @@ def web_voting_for_delegate(body):
 
 def get_delegate_principials(d):
     """Формирует список принципиалов для делегата"""
-    # TODO: Доделать формирование списка принципиалов
     notary_quantitiy = 0  # Это пока не понятно откуда брать
     meetup = db.meetup.find_one(
         {

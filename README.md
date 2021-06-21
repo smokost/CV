@@ -6,7 +6,7 @@ Python Backend Developer
 ![photo](/files/photo.jpg)
 
 Начало карьеры: июль 2019  
-[Примеры работы](/examples)
+[Портфолио](/portfolio)
 
 ### Контакты
 * https://vk.com/smokost

@@ -2,6 +2,7 @@
 Портфолио
 
 ## Examples
+* [SUPL](/portfolio/SUPL)
 * [SRF](/portfolio/SRF)
 * [userpoll](/portfolio/userpoll)
 * [Yandex Lambda-Functions Backend](/portfolio/YLF-backend)
@@ -60,6 +61,18 @@ NDA
 Стэк: ubuntu20, nginx, Python, Django, PostgreSQL, Redis, Celery, pytest, NodeJS, ReactJS
 
 Период: июль 2020 - июнь 2021
+
+### SUPL
+
+Площадка-сервис для бизнеса.
+Главная цель: минимизация налоговых рисков, делегирование 
+юридических отношений между самозанятым и работодателем. NDA
+
+Роль в проекте: Python Backend, ReactJS Frontend
+
+Стэк: ubuntu20, nginx, Python, Django, PostgreSQL, Redis, Celery, pytest, NodeJS, ReactJS
+
+Период: июль 2021 - настоящее время
 
 ### Auditsnt
 

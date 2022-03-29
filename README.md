@@ -3,7 +3,10 @@
 ## Смоляров Константин
 Python Backend Developer
 
-<img src="/files/photo_2022-03-29_13-02-58.jpg" height=400 alt="photo" style="max-width: 50%;"><img src="/files/photo_2022-03-29_13-03-02.jpg" height=400 alt="photo" style="max-width: 50%;">
+<p>
+<img src="/files/photo_2022-03-29_13-02-58.jpg" height=400 alt="photo" style="max-width: 50%;">
+<img src="/files/photo_2022-03-29_13-03-02.jpg" height=400 alt="photo" style="max-width: 50%;">
+</p>
 
 Начало карьеры: июль 2019  
 [Портфолио](/portfolio)

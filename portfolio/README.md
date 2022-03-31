@@ -2,6 +2,7 @@
 Портфолио
 
 ## Examples
+* [pytdjson](/portfolio/pytdjson)
 * [SUPL](/portfolio/SUPL)
 * [SRF](/portfolio/SRF)
 * [userpoll](/portfolio/userpoll)
@@ -84,6 +85,14 @@ NDA
 Стэк: Yandex Cloud, Yandex Functions, Pure Python, Telegram Bot, MongoDB,
 
 Период: Март 2020 - Февраль 2021
+
+### pytdjson
+
+Библиотека для создания и разработки кастомного Телеграм клиента на Python. Используется async.  
+Позволяет интегрировать свой телеграм аккаунт с любым приложением.
+
+Роль в проекте: Единственный разработчик
+Стэк: Python, Asyncio
 
 ### Other
 Другое

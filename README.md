@@ -5,7 +5,7 @@ Python Backend Developer
 
 <p>
 <img src="/files/f1.jpg" alt="photo">
-<img src="/files/f2.jpg" alt="photo">
+<img src="/files/f3.jpg" alt="photo">
 </p>
 
 Начало карьеры: июль 2019  

@@ -4,7 +4,7 @@
 Python Backend Developer
 
 <p>
-<img src="/files/photo_2022-03-29_13-02-58.jpg" height=300 alt="photo">
+<img src="/files/f1.jpg" height=300 alt="photo">
 <img src="/files/photo_2022-03-29_13-03-02.jpg" height=300 alt="photo">
 </p>
 

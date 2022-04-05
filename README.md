@@ -8,8 +8,9 @@ Python Backend Developer
 <img src="/files/f3.jpg" alt="photo">
 </p>
 
+## Портфолио
 Начало карьеры: июль 2019  
-[Портфолио](/portfolio)
+[Примеры работ >>>](/portfolio)
 
 ### Контакты
 * https://vk.com/smokost

@@ -20,9 +20,9 @@ Python Backend Developer
 ### Использую для разработки
 
 * Python
-    * Django
+    * Django/DRF
+    * Redis/Celery
     * AioHttp
-    * Bottle
     * Flask
     * FastApi
     * ReactJS
@@ -33,7 +33,7 @@ Python Backend Developer
 * Docker и Docker-compose
 * Apache/Nginx
 * MySQL/MariaDB/Postgres
-* MongoDB
+* MongoDB/Elasticsearch
 * LetsEncrypt's certbot
 * AWS/Yandex/Google Cloud
 * Nodejs

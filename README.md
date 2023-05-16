@@ -22,9 +22,9 @@ Python Backend Developer
 * Python
     * Django/DRF
     * Redis/Celery
+    * FastApi/Pydantic
     * AioHttp
     * Flask
-    * FastApi
     * ReactJS
     * Typescript
 * HTML/CSS/JS
@@ -52,9 +52,16 @@ Python Backend Developer
 
 ### Опыт работы
 
+* Python Developer 
+    * Aola.ai INC
+    * Январь 2023 - Настоящее время
+        * Проектирование и разработка Rest API и микросервисов на Python/FastAPI/Pydantic
+        * Интеграция с внешними API и другими источниками данных
+        * Разработка и поддержка монолита на Python/Django/DRF
+
 * Специалист отдела серверной разработки 
     * Uveon - облачные технологии
-    * Июнь 2022 - настоящее время
+    * Июнь 2022 - Январь 2023
         * Разработка северного приложения на Python в области vdi
         * Интеграция с различными vdi провайдерами через api и sdk
         * Реализация различных схем аутентификации: MS AD, LDAP, SAML, OAuth2.0

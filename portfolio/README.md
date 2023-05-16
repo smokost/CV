@@ -2,6 +2,7 @@
 Портфолио
 
 ## Examples
+* [aola collector](/portfolio/aola)
 * [pytdjson](/portfolio/pytdjson)
 * [SUPL](/portfolio/SUPL)
 * [SRF](/portfolio/SRF)
@@ -14,6 +15,16 @@
 
 ## Projects
 Описание некоторых проектов
+
+### Aola Collector
+
+Коллектор активностей для пользователя из разных источников-аггрегаторов
+
+Роль в проекте: Разработка архитектуры приложения, написание основного кода
+
+Стэк: Ubuntu20, nginx, Python, FastAPI, Pydantic, Redis, Celery, MongoDB 
+
+Период: Январь 2023 - Настоящее время
 
 ### pytdjson
 

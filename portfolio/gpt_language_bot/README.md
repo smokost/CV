@@ -9,7 +9,7 @@
 предложений с использованием слова, которое пользователь должен самостоятельно перевести.
 
 ## Стек технологий
-Python/Asyncio/Pydantic
-MongoDB
-Celery/Redis
-Docker/Docker-Compose
+Python/Asyncio/Pydantic  
+MongoDB  
+Celery/Redis  
+Docker/Docker-Compose  

@@ -2,20 +2,24 @@
 Портфолио
 
 ## Examples
+* [vivid](/portfolio/vivid)
 * [gpt language bot](/portfolio/gpt_language_bot)
 * [aola collector](/portfolio/aola)
 * [pytdjson](/portfolio/pytdjson)
-* [SUPL](/portfolio/SUPL)
-* [SRF](/portfolio/SRF)
-* [userpoll](/portfolio/userpoll)
-* [Yandex Lambda-Functions Backend](/portfolio/YLF-backend)
-* [Yandex Lambda-Functions Bot](/portfolio/YLF-bot)
-* [Django Market](/portfolio/Django-Market)
-* [FBParser](/portfolio/FBParser)
 
 
 ## Projects
 Описание некоторых проектов
+
+### vivid
+
+Код некоторых вспомогательных библиотек и инструментов, который был написан во время работы в vivid.
+
+Роль в проекте: Разработка архитектуры приложения, написание основного кода
+
+Стэк: Python, FastAPI, Pydantic, PostgreSQL, Redis, Kafka
+
+Период: Июль 2023 - Настоящее время
 
 ### gpt language bot
 
@@ -50,70 +54,4 @@ https://t.me/Eng2LearnBot
 
 Стэк: Ubuntu20, nginx, Python, FastAPI, Pydantic, Redis, Celery, MongoDB 
 
-Период: Январь 2023 - Настоящее время
-
-### Telegram Speech2Text
-
-Приложение-аддон для телеграм аккаунта. Переводит все голосовые в текст и 
-отправляет в тот же чат, откуда получено голосовое. 
-
-Роль в проекте: Самостоятельная разработка на заказ
-
-Стэк: Ubuntu20, nginx, Python, Django, Google GAS, telegram libtdjson
-
-Период: Февраль 2020
-
-### Telegram Spider
-
-Приложение-аддон для телеграм аккаунтов (не ботов). Прослушивает чаты и каналы, 
-реагирует на сообщения по шаблону на основе регулярного выражения, сигнализирует 
-о сообщениях, автоматизация некоторых рутинных действий. 
-
-Роль в проекте: Самостоятельная разработка на заказ
-
-Стэк: Ubuntu20, nginx, Python, Django, Redis, Celery, MySQL, MongoDB, Google GAS, telegram libtdjson, 
-
-Периодическая разработка с июня 2020 по сей день
-
-### SRF digital
-
-Стартап. Площадка-сервис, выступающая в роли посредника между 
-самозанятым и компанией (магазином, поставщиком услуг). 
-Главная цель: минимизация налоговых рисков, делегирование 
-юридических отношений между самозанятым и работодателем. NDA
-
-Роль в проекте: Тестировщик, Python Backend, Junior DevOps
-
-Стэк: ubuntu20, nginx, Python, Django, PostgreSQL, Redis, Celery, pytest, NodeJS, ReactJS
-
-Период: июль 2020 - июнь 2021
-
-### SUPL
-
-Площадка-сервис для бизнеса.
-Главная цель: минимизация налоговых рисков, делегирование 
-юридических отношений между самозанятым и работодателем. NDA
-
-Роль в проекте: Python Backend, ReactJS Frontend
-
-Стэк: ubuntu20, nginx, Python, Django, PostgreSQL, Redis, Celery, pytest, NodeJS, ReactJS
-
-Период: июль 2021 - Июль 2022
-
-### Auditsnt
-
-Разработка бэкенда для сайта СНТ из Краснодара на базе 
-Яндекс Функций. Микросервисная архитектура. NDA.
-
-Роль в проекте: Самостоятельная разработка на заказ
-
-Стэк: Yandex Cloud, Yandex Functions, Pure Python, Telegram Bot, MongoDB,
-
-Период: Март 2020 - Февраль 2021
-
-### Other
-Другое
-
-Мелкие проекты: телеграм боты, парсеры (requests, bs4, selenium), 
-автоматизация гугл таблиц (GAS), внедрение платежной системы на сайт, 
-HTML/CSS верстка
+Период: Январь 2023 - Июль 2023

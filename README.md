@@ -10,7 +10,7 @@ Python Backend Developer / Software Engineer Senior
 
 ## Портфолио
 Начало карьеры: Январь 2020  
-[Примеры работ >>>](/portfolio)
+[Примеры работ >>>](/portfolio)  
 [Резюме CV PDF >>>](/cv_pdf/cv_resume.pdf)
 
 ### Контакты
